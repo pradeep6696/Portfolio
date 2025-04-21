@@ -43,7 +43,4 @@ Welcome to my portfolio website! This repository contains the source code for my
 
 ## [Portfolio Website Click Here =>💁‍♂️🚀](https://shivabalyam.github.io/my-portfolio)
 
-## Screenshot:
-![image](https://github.com/user-attachments/assets/df8f17d8-f5e6-4ee6-be3e-8d38c66ed6ab)
-
 **Feel free to explore the code and customize it to suit your needs also Like and Give Heart to `[Shiva Balyam](https://github.com/Shivabalyam)`! Happy coding!**

@@ -1,4 +1,4 @@
-# Shiva Balyam's Portfolio Website 🌐
+# Shiva's Portfolio Website 🌐
 
 Welcome to my portfolio website! This repository contains the source code for my personal website, showcasing my skills, projects, and experiences.
 
@@ -36,4 +36,3 @@ Welcome to my portfolio website! This repository contains the source code for my
 ### Clone the repository: 
 `git clone https://github.com/Shivabalyam/my-portfolio.git`
 
-## [Portfolio Website Click Here =>💁‍♂️🚀](https://shivabalyam.github.io/my-portfolio)

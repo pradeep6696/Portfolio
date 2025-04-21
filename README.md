@@ -19,11 +19,6 @@ Welcome to my portfolio website! This repository contains the source code for my
 - HTML5
 - CSS3
 - JavaScript
-- ReactJS
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
 
 ## Features
 
@@ -42,5 +37,3 @@ Welcome to my portfolio website! This repository contains the source code for my
 `git clone https://github.com/Shivabalyam/my-portfolio.git`
 
 ## [Portfolio Website Click Here =>💁‍♂️🚀](https://shivabalyam.github.io/my-portfolio)
-
-**Feel free to explore the code and customize it to suit your needs also Like and Give Heart to `[Shiva Balyam](https://github.com/Shivabalyam)`! Happy coding!**

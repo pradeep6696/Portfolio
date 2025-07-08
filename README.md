@@ -1,4 +1,4 @@
-# Aravind's Portfolio Website 🌐
+# Pradeep's Portfolio Website 🌐
 
 Welcome to my portfolio website! This repository contains the source code for my personal website, showcasing my skills, projects, and experiences.
 
@@ -12,7 +12,7 @@ Welcome to my portfolio website! This repository contains the source code for my
 
 ## About Me
 
-**I'm Aravind Chowdary, a passionate software developer with a background in computer science. I specialize in front-end development, UI/UX design, and full-stack projects. My goal is to create visually appealing and user-friendly websites that enhance the user experience.**
+**I'm Pradeep chandra gadi, a passionate software developer with a background in computer science. I specialize in front-end development, UI/UX design, and full-stack projects. My goal is to create visually appealing and user-friendly websites that enhance the user experience.**
 
 ## Technologies Used
 
@@ -34,5 +34,5 @@ Welcome to my portfolio website! This repository contains the source code for my
 ## Getting Started
 
 ### Clone the repository: 
-`https://github.com/Aravind12200363/portfolio.git`
+`https://github.com/pradeep6696/Portfolio.git`
 
